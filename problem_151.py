@@ -25,7 +25,7 @@ class Solution(object):
         i = 0
         result = ''
         
-        
+      
         while i < N:
             
             
